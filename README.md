@@ -1,6 +1,6 @@
 # Kubernetes :: Switching from Docker to Containerd
 
-#### Kubernetes drops docker? What you need to know : 
+#### Kubernetes drops Docker? 
 Kubernetes will be dropping support for Docker as a container runtime starting from 1.23 release. 
 The dockershim component will be removed from the kubelet which will make docker runtime unusable.
 
